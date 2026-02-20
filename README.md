@@ -1,3 +1,4 @@
+![image alt](https://github.com/nikhil-ai-analytics/nikhil-ai-analytics/blob/b923fb003225092031dd80f04a9b64c8906f4af1/asset%20for%20profile%20readme.png)
 # 💫 About Me:
 Hi, I’m Nikhil Kumar — a Data Analytics & Data Science professional passionate about transforming raw data into actionable insights and building intelligent AI-powered solutions.<br><br>I specialize in Data Analytics, Data Science, Generative AI, AI Agent Automation, and Prompt Engineering, focusing on solving real-world business problems using data-driven strategies and AI automation.<br><br>💡 Core Expertise<br><br>Data Analysis & Statistical Modeling<br><br>Machine Learning & Predictive Analytics<br><br>Generative AI Applications<br><br>AI Agent Development & Automation<br><br>Prompt Engineering & Optimization<br><br>Data Visualization & Business Intelligence<br><br>Let’s build intelligent, data-driven systems that shape the future of AI.
 
